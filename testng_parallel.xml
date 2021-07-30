@@ -3,7 +3,7 @@
 
 <suite name="OpenEMR Suite" parallel="tests">
 
-	<parameter name="browsername" value="ff"></parameter>
+	<parameter name="browsername" value="ch"></parameter>
 	<parameter name="url" value="https://demo.openemr.io/a/openemr/index.php"></parameter>
 	
 	<test thread-count="5" name="Login Test ch">
